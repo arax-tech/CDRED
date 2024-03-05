@@ -1,0 +1,46 @@
+1. user create application py previw add kar any or and alst main submit agr sub mit ho jky tab edir ni kar paya ga
+2. payment request user kar sakta hy jo admin ko notification or email dono jyin gem
+3. payment staus ka color green red
+
+
+http://cpanel.myvisaright.in/
+myvisari
+1-3VwaY40:MPwj
+
+
+MAIL_MAILER=smtp
+MAIL_HOST=mail.cdred.org
+MAIL_PORT=465
+MAIL_USERNAME=no-replay@cdred.org
+MAIL_PASSWORD=Smile@12345
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS=no-replay@cdred.org
+MAIL_FROM_NAME="${APP_NAME}"
+
+
+MAIL_MAILER=smtp
+MAIL_HOST=mail.myvisaright.in
+MAIL_PORT=465
+MAIL_USERNAME=no-replay@myvisaright.in
+MAIL_PASSWORD=arham@123
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS=no-replay@myvisaright.in
+MAIL_FROM_NAME="${APP_NAME}"
+
+
+Documents upload
+
+
+✓ ID proof 
+✓ Name change evidence
+✓ Work Experience letter 
+✓ Appointment letter 
+✓ Pay slips 
+✓ Resume 
+✓ Salary statement
+✓ Apprenticeship Certificate
+✓ Affidavit
+
+.pdf or jpeg 
+
+3 mb per file maximum
